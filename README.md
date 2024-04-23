@@ -12,3 +12,5 @@ Link para o template Lean Inception: [Lean Inception Smart Premio - Sprint2](htt
 Link para o Figma: [Smart premio](https://www.figma.com/file/E40B4PpeSlbPes3clbSvcI/MVP---SMART-PPR?type=design&mode=design&t=WJdDpv3ANSjDzBNn-1)
 
 Link para o Jira: [Smart_premio](https://lucassodre1918.atlassian.net/jira/software/projects/SP/boards/2/backlog?atlOrigin=eyJpIjoiNmJlNmY5NmZhZjcwNGM2YmE5NDgyMmIzMDIxZjA2OGEiLCJwIjoiaiJ9)
+
+Link para o Vídeo: [Apresentação](https://lucassodre1918.atlassian.net/jira/software/projects/SP/boards/2/backlog?atlOrigin=eyJpIjoiNmJlNmY5NmZhZjcwNGM2YmE5NDgyMmIzMDIxZjA2OGEiLCJwIjoiaiJ9)
