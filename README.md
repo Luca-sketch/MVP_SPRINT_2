@@ -13,4 +13,4 @@ Link para o Figma: [Smart premio](https://www.figma.com/file/E40B4PpeSlbPes3clbS
 
 Link para o Jira: [Smart_premio](https://lucassodre1918.atlassian.net/jira/software/projects/SP/boards/2/backlog?atlOrigin=eyJpIjoiNmJlNmY5NmZhZjcwNGM2YmE5NDgyMmIzMDIxZjA2OGEiLCJwIjoiaiJ9)
 
-Link para o Vídeo: [Apresentação](https://lucassodre1918.atlassian.net/jira/software/projects/SP/boards/2/backlog?atlOrigin=eyJpIjoiNmJlNmY5NmZhZjcwNGM2YmE5NDgyMmIzMDIxZjA2OGEiLCJwIjoiaiJ9)
+Link para o Vídeo: [Apresentação](https://drive.google.com/file/d/1uUfqEARMvF1MjLofbvhhXwoOtiGF1ETN/view?usp=drive_link)
